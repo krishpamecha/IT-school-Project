@@ -1,0 +1,28 @@
+body
+{
+    background-image: url(/backgrounds.jpg);
+}
+
+.banner{
+    width: 100%;
+    border-radius: 100px;
+    height: 350px;
+    background: rgb(250,91,162);
+    background: radial-gradient(circle, rgba(250,91,162,1) 8%, rgba(51,137,240,1) 42%, rgba(182,211,245,1) 100%);
+}
+.navbar ul li{
+ width:85%;
+ margin: auto;
+ padding: 35px 0;
+ align-items: center;
+ justify-content: center;
+ border-radius: 100px;
+}
+.introo{
+    background: rgb(172,79,233);
+background: linear-gradient(90deg, rgba(172,79,233,1) 0%, rgba(226,68,68,1) 50%, rgba(69,82,252,1) 100%);
+    color:black;
+    font-size: larger;
+    border-radius: 20px;
+    height: 110px;
+}

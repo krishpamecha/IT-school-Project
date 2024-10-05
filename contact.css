@@ -1,0 +1,8 @@
+body{
+    background: rgb(251,113,113);
+background: linear-gradient(0deg, rgba(251,113,113,1) 24%, rgba(0,143,255,1) 100%);
+}
+.aboutc{
+    background: rgb(240,91,91);
+    background: linear-gradient(0deg, rgba(240,91,91,0.7791491596638656) 24%, rgba(131,196,247,0.8603816526610644) 100%);
+}
